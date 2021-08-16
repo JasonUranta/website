@@ -62,13 +62,11 @@ Note that this forked copy is a remote version on GitHub. It is not yet on your 
 
 ## Clone the forked repository
 
-Before cloning your forked repository to your local machine, you must have Git installed. You can find instructions for installing Git for your operating system [**here**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
+Before cloning your forked repository to your local machine, you must have Git installed. You can find instructions for installing Git for your operating system [**here**](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Please note that if you have a MAC the page offers several choices:
+- easiest (this version is fine for use at hackforla)
+- more up to date version (not required but optional if you want it): This option prompts you to go to install an 8Gig package manager called Homebrew.  If your computer is low on space, you can use this [tutorial](https://www.datacamp.com/community/tutorials/homebrew-install-use) to install XCode Command Tools and a lighter version of Homebrew and then install Git using this command: ```$ brew install git```  which in total only uses 300MB
 
-<details>
-<summary>If you are installing Git on MacOS and decide to install the more up to date version of Git that the webpage mentioned.</summary>
-   <br>
-   You will be prompted to go to another page on the Git website and have the option to install a package manager called Homebrew as part of a way to download Git. The method given on that webpage would result in downloading a version of Homebrew that takes up a great amount of space on your Mac so I would suggest downloading Homebrew through the link <a href="https://www.datacamp.com/community/tutorials/homebrew-install-use">here</a>.
-</details>
+
  
 
 
